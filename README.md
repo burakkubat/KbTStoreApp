@@ -1,3 +1,3 @@
 # kbtstoreapp
-https://user-images.githubusercontent.com/116390091/219876751-7c74822b-c254-48bd-aaf3-88a8bedc007b.mp4
+![kbtstoregif](https://user-images.githubusercontent.com/116390091/219877095-e3c46d77-84a6-4941-bf74-54a58e060329.gif)
 
